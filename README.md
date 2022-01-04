@@ -15,12 +15,13 @@ Basic Settings 🧢
 ```js
 client.on('message', message => {
 if(!message.guild)return 
-if(message.content.startsWith(prefix + "convert"))
+if(message.content.startsWith(prefix + "convert")){
 const code = message.content.split(' ').slice(1).join(' ')
 if(!code) return
 convert.v12(code).then(v12code => {
 message.author.send(`Your Code:${v12code} `)
 })
+}
 })
 ```
 
