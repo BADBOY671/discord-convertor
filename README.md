@@ -34,4 +34,4 @@ B A D B O Y #1502
 `
 <br>
 <br>
-<a href="https://www.npmjs.com/package/easy-anti-bad-word">Npm</a>
+<a href="https://www.npmjs.com/package/discord-convertor">Npm</a>
