@@ -13,7 +13,14 @@ Basic Settings 🧢
 <br><br>
 
 ```js
-
+client.on('message', message => {
+if(!message.guild) return 
+const code = message.content.split(' ').slice(1).join(' ')
+if(!code) return
+convert.v12(code).then(v12code => {
+message.author.send(`Your Code:${v12code} `)
+})
+})
 ```
 
 <br>
