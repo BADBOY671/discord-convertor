@@ -1,6 +1,6 @@
 Hi 👋  <br>
 
-Easy Anti Bad Word Pkg<br><br>
+Discord-Convertor<br><br>
 
 How To Install It In Your Project:?<br><br>
 ```js
