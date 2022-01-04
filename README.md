@@ -30,7 +30,7 @@ Any Bug<br>
 
 Contact With Me Discord: 
 `
-B A D B O Y #8888
+B A D B O Y #1502
 `
 <br>
 <br>
