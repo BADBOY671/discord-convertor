@@ -3,9 +3,9 @@ Hi 👋  <br>
 Easy Anti Bad Word Pkg<br><br>
 
 How To Install It In Your Project:?<br><br>
-`js
+```js
 const convert = require('discord-convertor')
-`
+```
 <br>
 <br>
 Basic Settings 🧢
